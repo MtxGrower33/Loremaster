@@ -1,9 +1,0 @@
-## Interface: 11200
-## Title: Loremaster
-## Notes: A narrator for World of Warcraft lore.
-## Author: Lakoto
-## Version: 1.0
-## SavedVariablesPerCharacter: playedSounds, MyAddon_CharacterSaved, MyAddonSavedVars
-
-loremaster-init.lua
-loremaster.lua
